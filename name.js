@@ -1,3 +1,3 @@
-console.error("Welcome");
-console.info('Home Work')
-console.warn("Welcome22222");
+alert ('Welcome')
+confirm (' Do you agree')
+prompt ('How old are you?')
